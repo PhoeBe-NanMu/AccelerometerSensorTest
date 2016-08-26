@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccelerometerSensorTest</string>
+    <string name="textView">请摇一摇手机</string>
+</resources>
